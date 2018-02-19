@@ -1,0 +1,3 @@
+* Docker-Emacs-Org
+Docker file includes emacs & org-mode & pygmentize.
+It's written for [[https://gitlab.com/kngwyu/kngwyu.gitlab.io][My Blog]].
