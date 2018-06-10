@@ -12,5 +12,6 @@
   ;; Emacs comes with an outdated version of org.
   ;; Need to be more specific to install newer version:
   (package-install 'org)
-  (package-install 'htmlize))
+  (package-install 'htmlize)
+  (package-install 'ox-reveal))
 
